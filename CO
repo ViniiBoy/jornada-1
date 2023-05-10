@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bandeiras Nacionais</title>
+</head>
+<body>
+    <h1>AMÉRICA DO SUL</h1>
+    <figure>
+    <a href="https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Argentina_de_Futebol"> <img src="./arg.png" alt="argentina" height="300" width="400"> <b>Argentina</b> <hr></a>
+    </figure>
+    <figure>
+    <a href="https://pt.wikipedia.org/wiki/Brasil"><img src="./BR.png" alt="Brasil" height="300" width="400"> <b>Brasil</b> <hr></a>
+    </figure>
+    <figure>
+    <a href="https://pt.wikipedia.org/wiki/Col%C3%B4mbia"> <img src="./Colombia.png" alt="França" height="300" width="400"><b>Colômbia</b> <hr></a>
+    </figure>
+
+    <h2>EUROPA</h2>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Fran%C3%A7a"> <img src="./Fra.png" alt="França" height="300" width="400"><b>França</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Alemanha"><img src="./Ale.png" alt="Alemanha" height="300" width="400"><b>Alemanha</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/B%C3%A9lgica"><img src="./Bel.png" alt="Belgica" height="300" width="400"><b>Bélgica</b> <hr></a>
+    </figure>
+
+    <h3>ÁSIA</h3>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Bahrein"> <img src="./bahrein.png" alt="bahrein" height="300" width="400"><b>Bahrein</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Cazaquist%C3%A3o"><img src="./caza.png" alt="cazaquistao" height="300" width="400"><b>Cazaquistão</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Coreia_do_Sul"><img src="./coreiasul.png" alt="coreiasul" height="300" width="400"><b>Coreia do Sul</b> <hr></a>
+    </figure>
+
+    <h4>OCEANIA</h4>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia"> <img src="./austra.png" alt="australia" height="300" width="400"><b>Austrália</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Indon%C3%A9sia"><img src="./indo.png" alt="indonesia" height="300" width="400"><b>Indonésia</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Nova_Zel%C3%A2ndia"><img src="./Bel.png" alt="novazelandia" height="300" width="400"><b>Nova Zelândia</b> <hr></a>
+    </figure>
+
+    <h5>ÁFRICA</h5>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Senegal"> <img src="./senegal.png" alt="senegal" height="300" width="400"><b>Senegal</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Angola"><img src="./angola.png" alt="angola" height="300" width="400"><b>Angola</b> <hr></a>
+    </figure>
+    <figure>
+        <a href="https://pt.wikipedia.org/wiki/Egito"><img src="./egito.png" alt="egito" height="300" width="400"><b>Egito</b> <hr></a>
+    </figure>
+
+
+</body>
+</html>
