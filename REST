@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        fieldset {
+            background-color: #eeeeee;
+        }
+
+        legend {
+            background-color: gray;
+            color: white;
+            padding: 5px 10px;
+        }
+
+        input {
+            margin: 5px;
+        }
+    </style>
+
+    <form action="/action_page.php">
+        <fieldset>
+            <legend>Dados Pessoais: </legend>
+            <label for="nome">Nome do aulo:</label><br>
+            <input type="email" id="Login" name="Login"><br>
+
+            <label for="email">E-mail</label><br>
+            <input type="text" id="text" name="text"><br>
+
+            <label for="password">Senha:</label><br>
+            <input type="password" id="Password" name="password"><br>
+
+            <label for="number">Telefone</label><br>
+            <input type="tel" id="number" name="number"><br><br>
+
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <label for="birthday">Data de Nascimento: </label><br>
+            <input type="date" id="birthday" name="birthday"><br>
+
+            <label for="Hora">Hora</label><br>
+            <input type="time" id="time" name="time"><br>
+
+            <label for="Country">Selecione o País</label><br>
+            <select id="country" name="country">
+                <option value="Select Country">País</option>
+                <option value="Brazil">Brasil</option>
+                <option value="Holanda">Netherland</option>
+                <option value="United States">Estados Unidos</option>
+                <option value="Canada">Canadá</option>
+            </select>
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <legend>Cargos e Idiomas: </legend>
+            <label for="Cargo">Selecione o seu Cargo:</label><br>
+            <input type="radio" id="CEO" name="CEO" value="1" checked /> CEO <br>
+            <input type="radio" id="Aluno" name="Aluno" value="2" /> Aluno <br>
+            <input type="radio" id="Coordenador" name="Coordenador" value="3" /> Coordenador <br>
+            <input type="radio" id="Professor" name="Professor" value="4" /> Professor<br><br>
+
+            <label for="Lenguages">Selecione as Linguagens:</label><br>
+            <input type="checkbox" id="English" name="English" value="English" checked /> Inglês <br>
+            <input type="checkbox" id="Spanish" name="Spanish" value="Spanish" /> Espanhol <br>
+            <input type="checkbox" id="Frech" name="Frech" value="Frech" /> Francês <br>
+            <input type="checkbox" id="Portugues" name="Portugues" value="Portugues" /> Português<br>
+        </fieldset>
+
+        <br>
+
+        <label for="OBS">Observações Finais: </label><br>
+        <textarea name="obs" rows="10" cols="40">
+        </textarea> <br><br>
+
+        <input type="submit" value="Prosseguir">
+    </form>
+</body>
+
+</html>
